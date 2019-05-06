@@ -1,14 +1,14 @@
-include_recipe ‘nginx::repo’
+include_recipe 'nginx::repo'
 
-package ‘nginx’ do
+package 'nginx' do
     action :install
 end
 
-remote_file ‘/usr/share/nginx/html/index.html’ do
-    source ‘https://s3.amazonaws.com/inspec-jumpstart/web01.html’
+remote_file '/usr/share/nginx/html/index.html' do
+    source 'https://s3.amazonaws.com/inspec-jumpstart/web01.html'
 end
 
-service ‘nginx’ do
+service 'nginx' do
     supports status:  true, restart: true, reload: true
     action [ :enable, :start ]
 end
