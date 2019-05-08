@@ -1,0 +1,7 @@
+control 'mynginx-02' do
+  title 'Nginx Version' 
+  desc 'Checking Nginx Version'
+  describe nginx do
+    its('version') { should cmp >= '1.10.2' }
+  end
+end
