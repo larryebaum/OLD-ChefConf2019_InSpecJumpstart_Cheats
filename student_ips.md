@@ -2,38 +2,47 @@
 
 |Student|Workstation|Server|
 |-------|-----------|------|
-|Acosta, Cesar Alejandro|*|%|
-|Bottomley, Scott|*|%|
-|Boyce, Darrell|*|%|
-|Branda, Nicholas|*|%|
-|Brennan, Shane|*|%|
-|Burglin, Meg|*|%|
-|Buros, Douglas|*|%|
-|Buzan, Shelby|*|%|
-|Dunn, Nicholas|*|%|
-|Edara, Sandesh|*|%|
-|Endsley, Christopher|*|%|
-|Fillmore, Leo|*|%|
-|Francoeur, Skip|*|%|
-|Gadoury, Joseph|*|%|
-|Glueck, Kevin|*|%|
-|Goerg, Aaron|*|%|
-|Grout, Connor|*|%|
-|Hao, Yimin|*|%|
-|Harris, Mark|*|%|
-|Hazari, Shyam|*|%|
-|Heverin, Stephen|*|%|
-|List, Jason|*|%|
-|Maupin, Zackary|*|%|
-|Nelson, Kalee|*|%|
-|Nguyen, Thuc|*|%|
-|Nussbaumer, Allen|*|%|
-|Pasunuri, Sandeep Gupta|*|%|
-|Phillips, Charles|*|%|
-|Ramsay, Brian|*|%|
-|Rindy, Josh|*|%|
-|Sexton, John|*|%|
-|St-Laurent, Marc|*|%|
-|Trapp, Cliff|*|%|
-|Varghese, Saju|*|%|
-|Wells, Eric|*|%|
+|Acosta, Cesar Alejandro|54.188.151.248 | 34.223.2.107 | 
+|Bottomley, Scott|52.43.113.143 | 34.221.154.131 | 
+|Boyce, Darrell|52.27.225.222 | 52.11.72.188 | 
+|Branda, Nicholas|34.220.189.162 | 54.212.94.155 | 
+|Brennan, Shane|52.11.216.115 | 34.220.152.175 | 
+|Burglin, Meg|34.220.217.41 | 34.220.221.101 | 
+|Buros, Douglas|34.222.161.216 | 54.190.133.187 | 
+|Buzan, Shelby|34.211.123.60 | 54.245.13.159 | 
+|Dunn, Nicholas|35.160.128.102 | 54.245.199.28 | 
+|Edara, Sandesh|54.212.198.102 | 34.220.159.215 | 
+|Endsley, Christopher|34.213.163.254 | 35.162.134.213 | 
+|Fillmore, Leo|34.221.86.85 | 34.214.118.168 | 
+|Francoeur, Skip|34.222.64.108 | 54.213.78.32 | 
+|Gadoury, Joseph|18.236.209.125 | 54.191.174.155 | 
+|Glueck, Kevin|34.220.135.126 | 35.164.86.94 | 
+|Goerg, Aaron|34.220.97.231 | 34.221.215.58 | 
+|Grout, Connor|34.221.108.86 | 54.188.215.38 | 
+|Hao, Yimin|52.25.84.194 | 52.11.140.240 | 
+|Harris, Mark|54.203.1.176 | 34.216.180.241 | 
+|Hazari, Shyam|54.184.248.128 | 54.184.12.154 | 
+|Heverin, Stephen|54.71.199.137 | 54.213.46.171 | 
+|List, Jason|54.149.166.62 | 54.218.89.160 | 
+|Maupin, Zackary|54.188.175.56 | 34.220.102.136 | 
+|Nelson, Kalee|34.209.5.127 | 35.161.35.9 | 
+|Nguyen, Thuc|54.191.190.60 | 52.89.245.104 | 
+|Nussbaumer, Allen|54.202.233.137 | 54.201.193.164 | 
+|Pasunuri, Sandeep Gupta|34.219.209.71 | 18.236.250.203 | 
+|Phillips, Charles|54.212.105.170 | 34.217.195.154 | 
+|Ramsay, Brian|34.220.88.41 | 54.214.79.238 | 
+|Rindy, Josh|54.213.87.143 | 54.214.169.152 | 
+|Sexton, John|34.216.96.159 | 34.222.63.184 | 
+|St-Laurent, Marc|34.219.234.83 | 54.203.13.95 | 
+|Trapp, Cliff|34.221.59.68 | 34.219.221.53 | 
+|Varghese, Saju|34.219.214.2 | 54.184.13.131 | 
+|Wells, Eric|34.217.22.247 | 52.34.160.253 | 
+| Extra 1|54.212.99.155 | 34.217.92.230 | 
+| Extra 2|52.25.180.63 | 34.222.103.88 | 
+| Extra 3|34.221.74.150 | 34.220.80.201 | 
+| Extra 4|54.185.143.217 | 34.211.13.153 | 
+| Extra 5|34.222.34.235 | 34.217.19.110 | 
+| Extra 6|54.200.79.129 | 52.13.197.26 | 
+| Extra 7|54.191.153.218 | 52.41.62.202 | 
+| Extra 8|34.210.85.232 | 54.244.105.189 | 
+| Extra 9|54.200.77.87 | 54.149.245.250 | 
